@@ -1,7 +1,9 @@
-
-<title>Simple Hello World App</title>
+<!DOCTYPE html>
 <html>
-<body>
-<h2>Hello World!</h2>
-</body>
+    <head>
+        <title>Basic Web Page</title>
+    </head>
+    <body>
+Hello World!
+    </body>
 </html>
