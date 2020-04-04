@@ -1,5 +1,6 @@
+
+<title>Simple Hello World App</title>
 <html>
-<title></title>
 <body>
 <h2>Hello World!</h2>
 </body>
