@@ -8,12 +8,6 @@ pipeline {
 
     stages {
 
-        stage('SCM') {
-            steps {
-                git url: 'https://github.com/akashsaini3046/hello-world.git'
-            }
-        }
-
         stage('Build') {
             steps {
                 bat 'mvn clean install sonar:sonar'
